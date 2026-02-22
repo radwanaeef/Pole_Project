@@ -3,7 +3,7 @@ __pycache__/
 .env
 models/*.pt
 outputs/*.xlsx
-dataset/*.jpeg
-test_images/*.jpeg
+data/dataset/*.jpeg
+data/test_images/*.jpeg
 runs/
 .DS_Store
