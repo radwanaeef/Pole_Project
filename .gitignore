@@ -2,8 +2,8 @@ venv/
 __pycache__/
 .env
 models/*pt
-outputs/*
-data/dataset/*
-data/test_images/*
+outputs/*xlsx
+data/dataset/*jpeg
+data/test_images/*jpeg
 runs/
 .DS_Store
